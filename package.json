@@ -1,5 +1,5 @@
 {
-	"name": "fullscreen-polyfill",
+	"name": "@ghnacker/fullscreen-polyfill",
 	"version": "1.0.3",
 	"description": "A simple polyfill implementation of W3C's JavaScript Fullscreen API spec. Don't worry about the vendor specific Fullscreen API.",
 	"license": "MIT",
